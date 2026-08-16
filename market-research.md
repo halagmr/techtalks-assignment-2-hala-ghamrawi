@@ -33,7 +33,7 @@ Full-Stack Web Developer
 <h3>5. MobiMind</h3>
 <p>Role: Full-Stack Developer</p>
 <p>Location: Jal el Dib, Lebanon</p>
-<p>Experience Level: </p> 
+<p>Experience Level: 3+ years</p> 
 <p>Required Skills: React, Next.js, Javascript, REST APIs, MongoDB, CI/CD, Git, SQL, Angular</p>
 <p>Link: https://www.linkedin.com/jobs/view/4437243859/</p>
 
